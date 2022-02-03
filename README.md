@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jasimmmm
+- 👀 I’m interested in coding in apps 
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - Discord : hoz#2430
